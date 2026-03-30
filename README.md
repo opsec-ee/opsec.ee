@@ -12,9 +12,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C9D1D9&lines=LOGOS+before+LOGIC.;Assumptions+are+the+mother+of+all+fuck-ups.)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assumption+are+the+mother+of+all+foo.)](https://git.io/typing-svg)
   <br>
   <br>
   
