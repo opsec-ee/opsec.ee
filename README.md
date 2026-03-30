@@ -14,21 +14,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C9D1D9&lines=LOGOS+before+LOGIC.;Assumptions+are+the+mother+of+all+fuck-ups.)](https://git.io/typing-svg)
 
-## Tech Stack:
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![C23](https://img.shields.io/badge/-C23-00599C?logo=c&logoColor=white)
-![x86_64 ASM](https://img.shields.io/badge/-x86__64_ASM-444444?logo=intel&logoColor=white)
-![NASM](https://img.shields.io/badge/-NASM-6E4C13?logo=assemblyscript&logoColor=white)
-![Brain23 AHM](https://img.shields.io/badge/-Brain23_AHM-8B0000?logo=buffer&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/-ONNX-005CED?logo=onnx&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?logo=openssl&logoColor=white)
-![GnuPG](https://img.shields.io/badge/-GnuPG-0093DD?logo=gnuprivacyguard&logoColor=white)
-![AES-256](https://img.shields.io/badge/-AES--256-003087?logo=letsencrypt&logoColor=white)
-![ISAAC CSPRNG](https://img.shields.io/badge/-ISAAC_CSPRNG-1A1A2E?logo=hackthebox&logoColor=white)
-
+  <br>
+  <br>
 ## Active Projects:
 
 | Project | Description | Status |
@@ -55,5 +43,19 @@
 |:---:|
 
 ---
+## Tech Stack:
 
-<p align="center"><sub>LOGOS before LOGIC. Assumptions are the mother of all fuck-ups.</sub></p>
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C23](https://img.shields.io/badge/-C23-00599C?logo=c&logoColor=white)
+![x86_64 ASM](https://img.shields.io/badge/-x86__64_ASM-444444?logo=intel&logoColor=white)
+![NASM](https://img.shields.io/badge/-NASM-6E4C13?logo=assemblyscript&logoColor=white)
+![Brain23 AHM](https://img.shields.io/badge/-Brain23_AHM-8B0000?logo=buffer&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?logo=onnx&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?logo=openssl&logoColor=white)
+![GnuPG](https://img.shields.io/badge/-GnuPG-0093DD?logo=gnuprivacyguard&logoColor=white)
+![AES-256](https://img.shields.io/badge/-AES--256-003087?logo=letsencrypt&logoColor=white)
+![ISAAC CSPRNG](https://img.shields.io/badge/-ISAAC_CSPRNG-1A1A2E?logo=hackthebox&logoColor=white)
+<p ali
+  gn="center"><sub>LOGOS before LOGIC. Assumptions are the mother of all fuck-ups.</sub></p>
