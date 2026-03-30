@@ -12,7 +12,8 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assumption+are+the+mother+of+all+foo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite&pause=1000&color=31F7F1&width=450&height=60&lines=LOGOS+Before+LOGIC;Assumptions+are+the+mother+of+all+foo.)](https://git.io/typing-svg)
+
   <br>
   <br>
   
@@ -58,4 +59,4 @@
 ![AES-256](https://img.shields.io/badge/-AES--256-003087?logo=letsencrypt&logoColor=white)
 ![ISAAC CSPRNG](https://img.shields.io/badge/-ISAAC_CSPRNG-1A1A2E?logo=hackthebox&logoColor=white)
 <p ali
-  gn="center"><sub>LOGOS before LOGIC. Assumptions are the mother of all fuck-ups.</sub></p>
+  gn="center"><sub>LOGOS before LOGIC. Assumptions are the mother of all foo.</sub></p>
