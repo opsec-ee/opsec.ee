@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>H. Overman<br>
+  <samp>H. Overman<br> <br>
   Systems programmer. Electrical engineer. Independent security researcher.<br><br></samp>
   <br>
   <br>
@@ -17,6 +17,7 @@
 
   <br>
   <br>
+  
 ## Active Projects:
 
 | Project | Description | Status |
@@ -28,6 +29,7 @@
 | [**Erdős-Selfridge Prime Engine**](https://gist.github.com/opsec-ee/bd829c3781bcfaace131628f8f4e6689#file-erdos-selfridge-prime_engine_3-c) | PPO-3 compliant prime categorization engine — hardware-confirmed timing | ✅ Gist |
   <br>
   <br>
+  
 ## CVE Disclosures:
 
 [![CVE-2026-30736](https://img.shields.io/badge/CVE--2026--30736-RESERVED-yellow)](https://www.cve.org/)
