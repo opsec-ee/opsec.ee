@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>H. Overman — opsec-ee<br>
+  <samp>H. Overman<br>
   Systems programmer. Electrical engineer. Independent security researcher.<br><br></samp>
   <br>
   <br>
