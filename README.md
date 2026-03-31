@@ -1,12 +1,14 @@
 ## opsec.ee
 
+
+
 <p align="center">
   <br>
   <br>
   <br>
-  <samp>H. Overman<br> <br>
-  Systems programmer. Electrical engineer. Independent security researcher.<br><br></samp>
-  <br>
+  <samp>H. Overman<br> <br>  
+  <br>Systems programmer. Electrical engineer. Independent security researcher.<br><br></samp>
+  <br>failures often come from overconfident assumptions about things we didn't actually verify.
   <br>
   <br>
 </p>
@@ -14,8 +16,8 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite&pause=1000&color=09AEF7&width=450&height=60&lines=LOGOS+Before+LOGIC;Assumptions+are+the+mother+of+all+foo.)](https://git.io/typing-svg)
+<br>
 
-  <br>
   <br>
   
 ## Active Projects:
@@ -27,6 +29,8 @@
 | [**BB84 QKD Simulator**](https://github.com/opsec-ee/bb84) | 13-file quantum key distribution production codebase | ✅ Published |
 | [**ID Generation Service**](https://github.com/opsec-ee/ID_Generation_Service) | Includes `euman_hash64` — Feistel bijective hash, zero collisions @ 4B tests | ✅ Published |
 | [**Erdős-Selfridge Prime Engine**](https://gist.github.com/opsec-ee/bd829c3781bcfaace131628f8f4e6689#file-erdos-selfridge-prime_engine_3-c) | PPO-3 compliant prime categorization engine — hardware-confirmed timing | ✅ Gist |
+| [**Recurisive Ternary - RTKA**](https://github.com/opsec-ee/rtka-u)) | Exact Recurisive Ternary Knowledge System | ✅ Published [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17173499.svg)](https://doi.org/10.5281/zenodo.17173499)|
+
   <br>
   <br>
   
