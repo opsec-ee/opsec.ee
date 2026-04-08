@@ -5,10 +5,8 @@
 <p align="center">
   <br>
   <br>
-  <br>
-  <samp>H. Overman<br> <br>  
-  <br>Systems programmer. Electrical engineer. Independent security researcher.<br><br></samp>
-  <br>failures often come from overconfident assumptions about things we didn't actually verify.
+  <br> 
+  <br>failures often come from overconfident assumptions about things we didn't verify.
   <br>
   <br>
 </p>
